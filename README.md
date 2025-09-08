@@ -1,7 +1,6 @@
 #                                                      Hello, I'm Chris james  
 
 🚀 Innovative Software Engineer with expertise in AI, Machine Learning, and Full-Stack Development. Adept at building scalable solutions, solving complex problems, and thriving in agile, collaborative environments.  
-![Profile Views](https://komarev.com/ghpvc/?username=chrisjamesranni&color=blue&style=flat-square) 
 ---
 
 ##                                                     🔭 My Main Works
